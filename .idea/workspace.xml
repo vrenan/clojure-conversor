@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23a2c056-812a-4276-b9a1-56f9dd00851d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/conversor/formatador.clj" />
+        <option value="$PROJECT_DIR$/src/conversor/interpretador_de_opcoes.clj" />
+        <option value="$PROJECT_DIR$/src/conversor/core.clj" />
+        <option value="$PROJECT_DIR$/src/conversor/cambista.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="23" />
+    <option name="width" value="1393" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="conversor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="conversor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="cursive.last.file.extension./Users/victor/Developer/conversor/src" value="clj" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReplState" timestamp="1558837782180">{:repl-history {:ide [], :local [{:command &quot;(java.lang.Math/PI)&quot;, :offset 19, :ns &quot;conversor.core&quot;} {:command &quot;(new String \&quot;Xablau\&quot;)&quot;, :offset 21, :ns &quot;conversor.core&quot;} {:command &quot;(String. \&quot;Valor\&quot;)&quot;, :offset 17, :ns &quot;conversor.core&quot;} {:command &quot;(.toUpperCase (String. \&quot;Valor\&quot;))&quot;, :offset 32, :ns &quot;conversor.core&quot;} {:command &quot;(.toUpperCase \&quot;Valor\&quot;)&quot;, :offset 22, :ns &quot;conversor.core&quot;} {:command &quot;(.toLowerCase \&quot;Valor\&quot;)&quot;, :offset 22, :ns &quot;conversor.core&quot;} {:command &quot;(require '[clj-http.client :as http-client])&quot;, :offset 44, :ns &quot;conversor.core&quot;} {:command &quot;(http-client/get \&quot;https://pokeapi.co/api/v2/pokemon/pikachu/\&quot;)&quot;, :offset 62, :ns &quot;conversor.core&quot;} {:command &quot;(def chave \&quot;f9e050ca3ca2cc3216d0\&quot;)&quot;, :offset 34, :ns &quot;conversor.core&quot;} {:command &quot;(def api-url \&quot;https://free.currencyconverterapi.com/api/v6/convert\&quot;)&quot;, :offset 68, :ns &quot;conversor.core&quot;} {:command &quot;(http-client/get api-url {:query-params {\&quot;q\&quot; \&quot;USD_BRL\&quot;\n                                         \&quot;apiKey\&quot; chave}})&quot;, :offset 113, :ns &quot;conversor.core&quot;} {:command &quot;(http-client/get api-url {:query-params {\&quot;q\&quot; \&quot;EUR_BRL\&quot;\n                                         \&quot;apiKey\&quot; chave}})&quot;, :offset 113, :ns &quot;conversor.core&quot;} {:command &quot;\n(require '[cheshire.core :refer :all])\n(require '[clj-http.client :as http-client])&quot;, :offset 84, :ns &quot;conversor.core&quot;} {:command &quot;(def chave (System/getenv \&quot;CHAVE\&quot;))&quot;, :offset 35, :ns &quot;conversor.core&quot;} {:command &quot;chave&quot;, :offset 5, :ns &quot;conversor.core&quot;} {:command &quot;(def api-url\n  \&quot;https://free.currencyconverterapi.com/api/v6/convert\&quot;)&quot;, :offset 70, :ns &quot;conversor.core&quot;} {:command &quot;(def usd-brl\n  (:body (http-client/get api-url {:query-params {\&quot;q\&quot; \&quot;USD_BRL\&quot;\n                                                  \&quot;apiKey\&quot; chave}})))&quot;, :offset 146, :ns &quot;conversor.core&quot;} {:command &quot;(parse-string usd-brl)&quot;, :offset 22, :ns &quot;conversor.core&quot;} {:command &quot;(-&gt; (parse-string usd-brl)\n    (get-in [\&quot;results\&quot; \&quot;USD_BRL\&quot; \&quot;val\&quot;]))&quot;, :offset 68, :ns &quot;conversor.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Leiningen.Run">
+    <configuration name="REPL" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="conversor" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <environment name="CHAVE" value="f9e050ca3ca2cc3216d0" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="conversor" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="run" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run" type="LeiningenRunConfiguration" factoryName="Leiningen">
+      <module name="conversor" />
+      <arguments argument="run" />
+      <arguments argument="--de=USD" />
+      <arguments argument="--para=BRL" />
+      <setting name="profiles" value="" />
+      <setting name="trampoline" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure REPL.REPL" />
+      <item itemvalue="Leiningen.Run" />
+    </list>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="23" width="1393" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19526203" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287841" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3287841" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="REPL" order="3" side_tool="true" weight="0.30940416" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Leiningen" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.0/clojure-1.10.0.jar!/clojure/core_deftype.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/conversor/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/tools.cli/0.4.1/tools.cli-0.4.1.jar!/clojure/tools/cli.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="531" column="24" selection-start-line="531" selection-start-column="24" selection-end-line="531" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conversor/formatador.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conversor/interpretador_de_opcoes.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conversor/cambista.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conversor/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
